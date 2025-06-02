@@ -1,4 +1,4 @@
 
-| Nom                      | Lien                         | Description | Ressources |
-| ------------------------ | ---------------------------- | ----------- | ---------- |
-| La coordination négociée | [[La coordination négociée]] |             |            |
+| Nom                          | Description | Ressources |
+| ---------------------------- | ----------- | ---------- |
+| [[La coordination négociée]] |             |            |
